@@ -1,5 +1,4 @@
-const mongoose = require('mongoose')
-mongoose.connect('mongodb+srv://yuan0017:a192837456@tf001.1hdqj.mongodb.net/TFsocial?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
+', { useNewUrlParser: true, useUnifiedTopology: true })
 
 mongoose.set('useNewUrlParser', true);
 mongoose.set('useFindAndModify', false);
